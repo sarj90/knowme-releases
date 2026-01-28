@@ -1,0 +1,13 @@
+Copyright (c) 2026 Interaction Systems, LLC. All rights reserved.
+
+This software and source code is proprietary and confidential. Copying (in part or in whole), redistributing, modifying, incorporating into derivative works, reverse-engineering, selling, compiling, decompiling, disassembling, and using commercially are prohibited without written permission.
+
+This code uses certain third party open-source libraries. 
+
+You may view the full EULA, Terms of Service, Privacy Policy, and third party open-source attributions in the downloaded software.
+
+For licensing inquiries, contact: Support@InteractionSystems.co
+
+---
+
+*Last updated: January 27, 2026*
